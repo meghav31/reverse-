@@ -13,6 +13,4 @@ func main(){
      fmt.Print("Enter your String: ")
     fmt.Scan(&name)
     fmt.Println(reverseString(name))
-
-
 }
